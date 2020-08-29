@@ -9,3 +9,8 @@ It is a simple command line game written in python which predicts the relationsh
 
 It is a python based program which is a demonstration of how hacking is performed in movies.
 
+3. PASSWORD GENERATOR
+
+A python program to generate passwords using random function.
+
+4. 
