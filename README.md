@@ -20,3 +20,12 @@ this python program takes message and scaling size as inputs and genrates a QR C
 5. STONE PAPER SCISSOR
 
 this python program is a demonstration of STONE PAPER AND SCISSOR game. it is created by using random function.
+
+6. SADDLE POINT OF A MATRIX
+
+saddle point of a matrix is the element in the matrix which is smallest in its row and greatest in its column.
+for matrix,
+1 2 3
+4 5 6
+7 8 9
+ 7 is saddle point because it is smallest in its row and greatest in its column.
